@@ -15,7 +15,7 @@ export default function App() {
                 <Stack.Screen
                     name="PantallaPrincipal"
                     component={PantallaPrincipal}
-                    options={{ title: 'Pantalla Principal' }}
+                    options= {{ title: 'Pantalla Principal' }}
                 />
                   <Stack.Screen
                    name="HomeScreen"
